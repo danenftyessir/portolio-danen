@@ -6,7 +6,7 @@ import { Toaster } from "@/components/ui/toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI Portfolio | Budi Prakoso",
+  title: "Danendra Shafi Athallah | Data Science",
   description: "Portfolio pribadi dengan integrasi AI",
 };
 

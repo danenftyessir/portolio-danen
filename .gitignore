@@ -1,3 +1,4 @@
+
 # file konfigurasi
 .env
 .env.local
@@ -24,3 +25,34 @@ dist/
 .turbo
 __pycache__/
 *.py[cod]
+*$py.class
+
+# virtual environment python
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# IDE dan editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# python distribusi / packaging
+*.egg
+*.egg-info/
+.installed.cfg
+*.egg-info
+
+# coverage / testing
+.coverage
+htmlcov/
+coverage/
+.pytest_cache/
+
+# jupyter notebook
+.ipynb_checkpoints
